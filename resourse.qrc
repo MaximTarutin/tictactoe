@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourse/1.wav</file>
+        <file>resourse/2.wav</file>
+        <file>resourse/3.wav</file>
+        <file>resourse/4.wav</file>
+        <file>resourse/IMG_20170604_161037.png</file>
+        <file>resourse/prosrach.png</file>
+        <file>resourse/11111.gif</file>
+        <file>resourse/22222.gif</file>
+        <file>resourse/103141433_large_F__3_.jpg</file>
+    </qresource>
+</RCC>
